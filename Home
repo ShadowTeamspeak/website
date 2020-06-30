@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<!--
+	
+-->
+<html>
+	<head>
+		<title>Shadow Teamspeak</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a class="logo" href="index.html">Shadow Teamspeak</a>
+				<nav>
+					<a href="#menu">Menu</a>
+				</nav>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="elements.html">Über uns</a></li>
+					<li><a href="Kontakt.html">Kontakt</a></li>
+				</ul>
+			</nav>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<h1>Shadow Teamspeak</h1>
+					<p>Mehr als nur ein Teamspeak Server! 
+				</div>
+				<video autoplay loop muted playsinline src="images/GTAV.mp4"></video>
+			</section>
+
+		<!-- Highlights -->
+			<section class="wrapper">
+				<div class="inner">
+					<header class="special">
+						<h2>Ein Teamspeak Server</h2>
+						<p>Der 24/7 Online ist, wo gute Stimmung und Qualität vorhanden ist!</p>
+					</header>
+					
+							</div>
+						</section>
+					</div>
+				</div>
+			</section>
+
+		<!-- CTA -->
+			<section id="cta" class="wrapper">
+				<div class="inner">
+					<h2>Werde einer von uns!</h2>
+					<p>Informiere dich für mehr im Menü unter dem Reiter "Über uns"</p>
+				</div>
+			</section>
+
+		
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<div class="content">
+						<section>
+							<h3>Kontakt</h3>
+							<p>E-Mail: mail@shadow-ts.com<br>	Teamspeak: shadow-ts.com</b></p>
+</p>
+						</section>
+						
+						<section>
+							<h4>Weiteres</h4>
+							<ul class="plain">
+						    <a href="https://www.paypal.me/ShadowTeamspeak" rel="nofollow">Für Teamspeak Server spenden</a>
+					<br>	<a href="ts3server://shadow-ts.com?port=9987"rel="nofollow">Zum Teamspeak Server verbinden</a>	
+								
+							</ul>
+						</section>
+					</div>
+					<div class="copyright">
+						&copy; Shadow Teamspeak
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
